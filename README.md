@@ -16,5 +16,6 @@ pytest tests/
 ## Current Progress
 - [x] Week 1: Environment setup and basic analysis
 - [ ] Week 2: Sorting algorithms
-- [ ] Week 3: Search algorithms## Author
+- [ ] Week 3: Search algorithms
+## Author
 [Jesus Barba] - [Jesus.Barba1@ctx.edu]
